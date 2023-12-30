@@ -1,1 +1,18 @@
 /*  your css code here. If applicable */
+body {
+    margin: 0;
+}
+
+#sizeInfo {
+    position: fixed;
+    top: 10px;
+    left: 10px;
+    background-color: #3498db;
+    padding: 10px;
+    border-radius: 5px;
+    color: #fff;
+}
+
+h1 {
+    margin: 0;
+}
