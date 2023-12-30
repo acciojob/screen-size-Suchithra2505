@@ -4,7 +4,7 @@ const sizeDisplay = document.getElementById('sizeDisplay');
 function updateSize() {
     const width = window.innerWidth;
     const height = window.innerHeight;
-    sizeDisplay.textContent = `Width: ${width} Height: ${height}`;
+    sizeDisplay.textContent = `Width: ${width} and Height: ${height}`;
 }
 
 // Initial size update
